@@ -12,12 +12,12 @@ Identifiers
 
 #### activityClass
 
--   WALKING
--   WALKING\_UPSTAIRS
--   WALKING\_DOWNSTAIRS
--   SITTING
--   STANDING
--   LAYING
+1.  WALKING
+2.  WALKING\_UPSTAIRS
+3.  WALKING\_DOWNSTAIRS
+4.  SITTING
+5.  STANDING
+6.  LAYING
 
 #### The variables are defined as follows:
 
